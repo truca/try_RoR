@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  nombre: MyString
+  cobro: 1
+  servicio: MyText
+
+two:
+  nombre: MyString
+  cobro: 1
+  servicio: MyText
